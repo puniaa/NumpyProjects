@@ -4,7 +4,7 @@ A collection of beginner-to-intermediate Python projects using NumPy and other d
 
 ## 🔍 Projects
 
-### 💳 [Credit Card Fraud Detection](./fraudDetector/)
+### 💳 [Credit Card Fraud Detection](./FraudDetector/)
 Use scikit-learn and NumPy to detect fraudulent credit card transactions from real-world data.
 
 ### 🔢 [Sudoku Solver](./sudoku-solver/)
