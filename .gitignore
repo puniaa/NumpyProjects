@@ -1,0 +1,26 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore Jupyter Notebook checkpoints (if using .ipynb files later)
+.ipynb_checkpoints/
+
+# Ignore dataset files (especially large ones)
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+
+# Ignore config and secrets
+kaggle.json
+
+# Ignore IDE/editor settings
+.vscode/
+*.code-workspace
+.DS_Store
